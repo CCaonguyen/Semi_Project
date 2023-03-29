@@ -77,7 +77,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="{{route('admin.order.index')}}">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Đơn hàng</span>
+                    <span>Order</span>
                 </a>
             </li>
 

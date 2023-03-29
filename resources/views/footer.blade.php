@@ -52,7 +52,8 @@
                                     <ul>
                                         <li><a href="#">Email: Ccaonguyen.com</a></li>
                                         <li><a href="#">Phone Number: 0867740603</a></li>
-                                        <li><a href="#">Facebook: Nguyen Dinh Cao</a></li>
+                                        <li><a href="#">Facebook: Ccao Nguyen</a></li>
+                                        <li><a href="#">Other</a></li>
                                     </ul>
                                 </div>
                             </div>
